@@ -1,0 +1,55 @@
++---------------------------+-------+---------+-----------+
+| Material List for schematic 'Unnamed' (1 of 1 regions)  |
++---------------------------+-------+---------+-----------+
+| Item                      | Total | Missing | Available |
++---------------------------+-------+---------+-----------+
+| Dirt                      | 11137 |   11137 |         0 |
+| Grass Block               |  3897 |    3897 |         1 |
+| Dirt Path                 |  1020 |    1020 |         0 |
+| Cobblestone               |   772 |     772 |         0 |
+| Oak Stairs                |   629 |     629 |         0 |
+| Oak Planks                |   440 |     440 |         0 |
+| Oak Log                   |   311 |     311 |         0 |
+| Oak Leaves                |   237 |     237 |         0 |
+| White Terracotta          |   109 |     109 |         0 |
+| Mossy Cobblestone         |   103 |     103 |         0 |
+| Torch                     |    67 |      67 |         0 |
+| Glass Pane                |    48 |      48 |         0 |
+| Oak Fence                 |    41 |      41 |         0 |
+| Stripped Oak Log          |    40 |      40 |         0 |
+| Cobblestone Stairs        |    37 |      37 |         0 |
+| Dandelion                 |    26 |      26 |         0 |
+| Oak Door                  |    18 |      18 |         0 |
+| Water Bucket              |    16 |      16 |         0 |
+| Oak Slab                  |    12 |      12 |         0 |
+| Ladder                    |    10 |      10 |         0 |
+| White Stained Glass Pane  |    10 |      10 |         0 |
+| Yellow Stained Glass Pane |    10 |      10 |         0 |
+| Oak Trapdoor              |     8 |       8 |         0 |
+| Smooth Stone              |     8 |       8 |         0 |
+| Poppy                     |     7 |       7 |         0 |
+| Yellow Bed                |     6 |       6 |         0 |
+| Bookshelf                 |     4 |       4 |         0 |
+| Clay                      |     4 |       4 |         0 |
+| Cornflower                |     4 |       4 |         0 |
+| White Carpet              |     4 |       4 |         0 |
+| Yellow Carpet             |     4 |       4 |         0 |
+| Azure Bluet               |     3 |       3 |         0 |
+| Cobblestone Wall          |     3 |       3 |         0 |
+| Stripped Oak Wood         |     3 |       3 |         0 |
+| Bricks                    |     2 |       2 |         0 |
+| Chest                     |     2 |       2 |         0 |
+| Cobblestone Slab          |     2 |       2 |         0 |
+| Oxeye Daisy               |     2 |       2 |         0 |
+| Terracotta                |     2 |       2 |         0 |
+| White Bed                 |     2 |       2 |         0 |
+| Bell                      |     1 |       1 |         0 |
+| Blast Furnace             |     1 |       1 |         0 |
+| Brewing Stand             |     1 |       1 |         0 |
+| Cartography Table         |     1 |       1 |         0 |
+| Lectern                   |     1 |       1 |         0 |
+| Oak Pressure Plate        |     1 |       1 |         0 |
+| Stonecutter               |     1 |       1 |         0 |
++---------------------------+-------+---------+-----------+
+| Item                      | Total | Missing | Available |
++---------------------------+-------+---------+-----------+
